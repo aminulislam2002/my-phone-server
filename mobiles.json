@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "display": {
+      "size": "6.1 inches",
+      "resolution": "1170 x 2532 pixels"
+    },
+    "processor": "Apple A15 Bionic",
+    "storage": "128 GB",
+    "price": 799
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S21",
+    "brand": "Samsung",
+    "display": {
+      "size": "6.2 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Exynos 2100",
+    "storage": "128 GB",
+    "price": 799
+  },
+  {
+    "id": 3,
+    "name": "Pixel 6",
+    "brand": "Google",
+    "display": {
+      "size": "6.4 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Google Tensor",
+    "storage": "128 GB",
+    "price": 699
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "brand": "OnePlus",
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "1440 x 3216 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "storage": "128 GB",
+    "price": 969
+  },
+  {
+    "id": 5,
+    "name": "Mi 11",
+    "brand": "Xiaomi",
+    "display": {
+      "size": "6.81 inches",
+      "resolution": "1440 x 3200 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "storage": "128 GB",
+    "price": 749
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Z Flip 3",
+    "brand": "Samsung",
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "1080 x 2640 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "storage": "128 GB",
+    "price": 999
+  },
+  {
+    "id": 7,
+    "name": "iPhone SE",
+    "brand": "Apple",
+    "display": {
+      "size": "4.7 inches",
+      "resolution": "750 x 1334 pixels"
+    },
+    "processor": "Apple A13 Bionic",
+    "storage": "64 GB",
+    "price": 399
+  },
+  {
+    "id": 8,
+    "name": "Pixel 5a",
+    "brand": "Google",
+    "display": {
+      "size": "6.34 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 765G",
+    "storage": "128 GB",
+    "price": 449
+  },
+  {
+    "id": 9,
+    "name": "Redmi Note 10 Pro",
+    "brand": "Xiaomi",
+    "display": {
+      "size": "6.67 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 732G",
+    "storage": "128 GB",
+    "price": 449
+  },
+  {
+    "id": 10,
+    "name": "ROG Phone 5",
+    "brand": "Asus",
+    "display": {
+      "size": "6.78 inches",
+      "resolution": "1080 x 2448 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 888+",
+    "storage": "128 GB",
+    "price": 999
+  },
+  {
+    "id": 11,
+    "name": "Motorola Edge 20",
+    "brand": "Motorola",
+    "display": {
+      "size": "6.7 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 778G",
+    "storage": "128 GB",
+    "price": 499
+  },
+  {
+    "id": 12,
+    "name": "Xperia 1 III",
+    "brand": "Sony",
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "1644 x 3840 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 888",
+    "storage": "256 GB",
+    "price": 1299
+  },
+  {
+    "id": 13,
+    "name": "Galaxy A52",
+    "brand": "Samsung",
+    "display": {
+      "size": "6.5 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 720G",
+    "storage": "128 GB",
+    "price": 399
+  },
+  {
+    "id": 14,
+    "name": "OnePlus Nord 2",
+    "brand": "OnePlus",
+    "display": {
+      "size": "6.43 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "processor": "MediaTek Dimensity 1200-AI",
+    "storage": "128 GB",
+    "price": 399
+  },
+  {
+    "id": 15,
+    "name": "Moto G Power (2022)",
+    "brand": "Motorola",
+    "display": {
+      "size": "6.6 inches",
+      "resolution": "720 x 1600 pixels"
+    },
+    "processor": "Qualcomm Snapdragon 662",
+    "storage": "64 GB",
+    "price": 249
+  }
+]
